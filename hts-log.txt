@@ -1,4 +1,4 @@
-HTTrack3.49-2+htsswf+htsjava launched on Mon, 03 Feb 2025 20:28:20 at https://charlesdesignlab.framer.website/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 04 Feb 2025 12:09:35 at https://charlesdesignlab.framer.website/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 (winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://charlesdesignlab.framer.website/ -O1 "C:\My Web Sites\Portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
@@ -6,7 +6,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-20:28:54	Error: 	"Not Found" (404) at link https://charlesdesignlab.framer.website/portfolio-dark-work-single/[object Object] (from https://charlesdesignlab.framer.website/portfolio-dark-work-single/logo-design-for-brands)
+12:10:04	Error: 	"Not Found" (404) at link https://charlesdesignlab.framer.website/portfolio-dark-work-single/[object Object] (from https://charlesdesignlab.framer.website/portfolio-dark-work-single/logo-design-for-brands)
 
-HTTrack Website Copier/3.49-2 mirror complete in 57 seconds : 186 links scanned, 184 files written (58049276 bytes overall) [54265234 bytes received at 952021 bytes/sec], 4539376 bytes transferred using HTTP compression in 15 files, ratio 11%, 9.7 requests per connection
+HTTrack Website Copier/3.49-2 mirror complete in 50 seconds : 186 links scanned, 184 files written (58049398 bytes overall) [54260455 bytes received at 1085209 bytes/sec], 4539498 bytes transferred using HTTP compression in 15 files, ratio 11%, 10.3 requests per connection
 (1 errors, 0 warnings, 0 messages)
